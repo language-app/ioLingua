@@ -1,4 +1,4 @@
-# ioLingua
+## ioLingua
 
 # Overview
 ioLingua is a full stack language learning web app, which allows users to enter a specific word into a search bar and get a list of short text, audio, and video materials in which this word is used. The idea behind this is when you learn words in context, you will memorize them much better. 
