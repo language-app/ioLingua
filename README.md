@@ -13,26 +13,24 @@ npm install
 TBD
 
 ### Technologies Used
-Front End:
-
-HTML
+Front End: HTML,
 CSS, 
-SCSS
-Javascript
+SCSS,
+Javascript,
 Material UI
 
 Back End:
-Node.js
-ReactJS
-Redux
-Sequelize
-PostgreSQL
-Babel
-ESLint
-Mocha
-Chai
-Webpack
-Nodemon
+Node.js,
+ReactJS,
+Redux,
+Sequelize,
+PostgreSQL,
+Babel,
+ESLint,
+Mocha,
+Chai,
+Webpack,
+Nodemon,
 Enzyme
 
 ### Hosting
