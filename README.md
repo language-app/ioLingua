@@ -16,23 +16,37 @@ TBD
 Front End:
 
 HTML
+
 CSS, SCSS
+
 Javascript
+
 Material UI
 
 Back End:
 
 Node.js
+
 ReactJS
+
 Redux
+
 Sequelize
+
 PostgreSQL
+
 Babel
+
 ESLint
+
 Mocha
+
 Chai
+
 Webpack
+
 Nodemon
+
 Enzyme
 
 ### Hosting
