@@ -5,6 +5,7 @@ import Search from './containers/Search';
 function App() {
   return (
     <div>
+      
       <Search />
     </div>    
   );
